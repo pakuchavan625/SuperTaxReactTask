@@ -1,0 +1,64 @@
+.appointment-wrapper{
+    width: 80%;
+    height: 100vh;
+    border: 1px solid black;
+    margin: 50px auto;
+    border-radius: 15px;
+}
+
+.doc-img{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+.appointment-form{
+    width: 90%;
+    height: auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10% auto;
+    
+ 
+}
+
+.appointment-headings{
+    width:100% ;
+    height: auto;
+    background-color:lightseagreen;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.main-heading{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sub-heading{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-book{
+    margin-top: 50px;
+    width: 100%;
+    padding: 10px;
+}
+
+
+.patient-name{
+    margin-bottom: 20px;
+}
+
+.mobile-number{
+    margin-bottom: 20px;
+}
+
+.mobile-number{
+    margin-bottom: 20px;
+}
